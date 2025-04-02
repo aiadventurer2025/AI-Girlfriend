@@ -1,4 +1,4 @@
-# Roya 3.0 - AI Girlfriend
+# AI Girlfriend
 
 Roya is an interactive AI girlfriend application with a tsundere personality. She combines advanced AI language models, text-to-speech, and animated visuals to create an engaging conversational experience.
 
